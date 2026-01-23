@@ -1,0 +1,5 @@
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.AssemblyInfoInputs.cache
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.AssemblyInfo.cs
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.sourcelink.json

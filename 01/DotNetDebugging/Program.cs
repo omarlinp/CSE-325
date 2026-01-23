@@ -1,4 +1,9 @@
-﻿int result = Fibonacci(5);
+﻿using System.Diagnostics;
+
+Debug.WriteLine($"Entering {nameof(Fibonacci)} method");
+Debug.WriteLine($"We are looking for the {n}th number");
+
+int result = Fibonacci(5);
 Console.WriteLine(result);
 
 static int Fibonacci(int n)
@@ -12,7 +17,9 @@ static int Fibonacci(int n)
         sum = n1 + n2;
         n1 = n2;
         n2 = sum;
+        Debug.WriteLineIf(sum == 1, $"sum is 1, n1 is {n1}, n2 is {n2}");    
     }
-
+    // If n2 is 5 continue, else break.
+    Debug.Assert(n2 == 5, "The return value is not 5 and it should be.");
     return n == 0 ? n1 : n2;
 }
