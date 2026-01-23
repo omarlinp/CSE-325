@@ -3,3 +3,13 @@
 /home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.AssemblyInfo.cs
 /home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.csproj.CoreCompileInputs.cache
 /home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.sourcelink.json
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/bin/Release/net10.0/DotNetDebugging
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/bin/Release/net10.0/DotNetDebugging.deps.json
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/bin/Release/net10.0/DotNetDebugging.runtimeconfig.json
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/bin/Release/net10.0/DotNetDebugging.dll
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/bin/Release/net10.0/DotNetDebugging.pdb
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.dll
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/refint/DotNetDebugging.dll
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.pdb
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.genruntimeconfig.cache
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDebugging/obj/Release/net10.0/ref/DotNetDebugging.dll
