@@ -1,0 +1,15 @@
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/bin/Debug/net10.0/DotNetDependencies
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/bin/Debug/net10.0/DotNetDependencies.deps.json
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/bin/Debug/net10.0/DotNetDependencies.runtimeconfig.json
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/bin/Debug/net10.0/DotNetDependencies.dll
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/bin/Debug/net10.0/DotNetDependencies.pdb
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.GeneratedMSBuildEditorConfig.editorconfig
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.AssemblyInfoInputs.cache
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.AssemblyInfo.cs
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.csproj.CoreCompileInputs.cache
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.sourcelink.json
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.dll
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/obj/Debug/net10.0/refint/DotNetDependencies.dll
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.pdb
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.genruntimeconfig.cache
+/home/omarlinp/Desktop/MEGA/BYU-I/2026 Winter/CSE-325/01/DotNetDependencies/obj/Debug/net10.0/ref/DotNetDependencies.dll
