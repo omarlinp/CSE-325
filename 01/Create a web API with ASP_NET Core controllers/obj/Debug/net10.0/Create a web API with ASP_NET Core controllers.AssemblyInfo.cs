@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Create a web API with ASP_NET Core controllers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7f1b03160ef12d13b8cef183b8780664803f500")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c2e313bd229e7a59edcae16d44dd53cfdac513c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Create a web API with ASP_NET Core controllers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Create a web API with ASP_NET Core controllers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

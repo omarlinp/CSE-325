@@ -1,13 +1,51 @@
-@Create_a_web_API_with_ASP_NET_Core_controllers_HostAddress = http://localhost:5116
-GET {{Create_a_web_API_with_ASP_NET_Core_controllers_HostAddress}}/weatherforecast/
+@ContosoPizza_HostAddress = http://localhost:5116
+GET {{ContosoPizza_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
-GET {{Create_a_web_API_with_ASP_NET_Core_controllers_HostAddress}}/pizza/
+GET {{ContosoPizza_HostAddress}}/pizza/
 Accept: application/json
 
 ###
-GET {{Create_a_web_API_with_ASP_NET_Core_controllers_HostAddress}}/pizza/5
+GET {{ContosoPizza_HostAddress}}/pizza/3
 Accept: application/json
 
+###
+POST {{ContosoPizza_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Hawaii",
+    "isGlutenFree": false
+}
+
+###
+PUT {{ContosoPizza_HostAddress}}/pizza/3
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "Hawaiian",
+    "isGlutenFree": false
+}
+
+###
+DELETE {{ContosoPizza_HostAddress}}/pizza/4
+
+###
+POST {{ContosoPizza_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Meat Lovers",
+    "isGlutenFree": false
+}
+###
+POST {{ContosoPizza_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Omarlin's Special",
+    "isGlutenFree": false
+}
 ###
