@@ -23,3 +23,25 @@ Transfer-Encoding: chunked
   }
 ]
 
+
+void salesummary(string file,IEnumerable<string> salesFiles, double salesTotal)
+{
+    File.AppendAllText(file, $"Sales Summary {Environment.NewLine}");
+    File.AppendAllText(file, $"------------------------------{Environment.NewLine}");
+    File.AppendAllText(file, $"Total Sales: ${salesTotal:F2}{Environment.NewLine}{Environment.NewLine}{Environment.NewLine}");
+    File.AppendAllText(file, $"Details {Environment.NewLine}");
+    foreach (var f in salesFiles)
+    {
+        DirectoryInfo dir = new DirectoryInfo(f);
+
+        string shortpath = Path.Combine(
+            dir.Parent?.Name ?? "root",
+            dir.Name
+        );
+        string sales= File.ReadAllText(f);
+        SalesData? data = JsonConvert.DeserializeObject<SalesData?>(sales);
+        File.AppendAllText(file, $"{shortpath}: ${data?.Total ?? 0}{Environment.NewLine}");
+    }
+}
+
+record SalesData (double Total);
